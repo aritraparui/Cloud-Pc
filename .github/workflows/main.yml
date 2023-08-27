@@ -18,6 +18,8 @@ https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-wi
 
 ndows-amd64.zip -OutFile ngrok.zip
 
+ndows-amd64.zip -OutFile ngrok.zip
+
 - name: Extract
 
 run: Expand-Archive ngrok.zip
